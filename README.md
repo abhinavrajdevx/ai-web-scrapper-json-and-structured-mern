@@ -1,7 +1,7 @@
 # 🤖 AI Web Scraper
 
 <div align="center">
-  <img src="https://imgur.com/ff01f7ab-b521-4149-b58e-2f585d2bafec" alt="AI Web Scraper Banner" />
+  <img src="https://i.imgur.com/qRDDitc.png" alt="AI Web Scraper Banner" />
   
   <p align="center">
     <b>A powerful GUI web scraper with AI-powered customization capabilities</b>
