@@ -27,24 +27,7 @@
   <a href="#-license">License</a>
 </div>
 
-## ✨ Features
-
-- 🌐 **GUI Web Scraping**: User-friendly interface for scraping any website
-- 🤖 **Custom AI Prompts**: Customize output with tailored AI prompts
-- 🔄 **Multiple Output Formats**: Choose between JSON or Plain Text modes
-- 🧩 **Chunking Support**: Handle large websites by breaking content into manageable chunks
-- 🚀 **Model Selection**: Choose from various LLM models for different scraping needs
-- 📊 **Structured Data Extraction**: Extract precisely what you need in the format you want
-- 🔌 **Easy Integration**: Seamlessly integrate scraped data into blogs or news websites
-
-## 🎬 Demo
-
-<div align="center">
-  <p><i>The AI Web Scraper in action</i></p>
-  <img src="https://i.imgur.com/cRac0Sr.gif" alt="Demo GIF" />
-</div>
-
-## 📹 Video Walkthrough
+## 📹 The making video (Coming soon...)
 
 <div align="center">
   <p><i>Watch the complete development process of the AI Web Scraper</i></p>
@@ -73,6 +56,23 @@
       <li>🚀 Performance optimization techniques</li>
     </ul>
   </details>
+</div>
+
+## ✨ Features
+
+- 🌐 **GUI Web Scraping**: User-friendly interface for scraping any website
+- 🤖 **Custom AI Prompts**: Customize output with tailored AI prompts
+- 🔄 **Multiple Output Formats**: Choose between JSON or Plain Text modes
+- 🧩 **Chunking Support**: Handle large websites by breaking content into manageable chunks
+- 🚀 **Model Selection**: Choose from various LLM models for different scraping needs
+- 📊 **Structured Data Extraction**: Extract precisely what you need in the format you want
+- 🔌 **Easy Integration**: Seamlessly integrate scraped data into blogs or news websites
+
+## 🎬 Demo
+
+<div align="center">
+  <p><i>The AI Web Scraper in action</i></p>
+  <img src="https://i.imgur.com/cRac0Sr.gif" alt="Demo GIF" />
 </div>
 
 ## 🚀 Installation
