@@ -27,6 +27,8 @@
   <a href="#-license">License</a>
 </div>
 
+<br/>
+
 ## 📹 The making video (Coming soon...)
 
 <div align="center">
@@ -58,6 +60,8 @@
   </details>
 </div>
 
+<br/>
+
 ## ✨ Features
 
 - 🌐 **GUI Web Scraping**: User-friendly interface for scraping any website
@@ -68,12 +72,16 @@
 - 📊 **Structured Data Extraction**: Extract precisely what you need in the format you want
 - 🔌 **Easy Integration**: Seamlessly integrate scraped data into blogs or news websites
 
+<br/>
+
 ## 🎬 Demo
 
 <div align="center">
   <p><i>The AI Web Scraper in action</i></p>
   <img src="https://i.imgur.com/cRac0Sr.gif" alt="Demo GIF" />
 </div>
+
+<br/>
 
 ## 🚀 Installation
 
@@ -118,6 +126,8 @@ npm run dev
 
 Once both servers are running, navigate to `http://localhost:3000` (or the port specified in your frontend configuration) to start using the AI Web Scraper.
 
+<br/>
+
 ## 📖 Usage
 
 1. **Enter the URL** of the website you want to scrape
@@ -142,11 +152,15 @@ Summarize the main points of this article in bullet points
 Extract contact information including email addresses and phone numbers
 ```
 
+<br/>
+
 ## 🏗️ Architecture
 
 <div align="center">
   <img src="https://i.imgur.com/ydtw0pL.png" alt="Architecture Diagram" />
 </div>
+
+<br/>
 
 ### Tech Stack
 
@@ -154,6 +168,8 @@ Extract contact information including email addresses and phone numbers
 - **Backend**: Express.js with TypeScript
 - **Web Scraping**: Puppeteer
 - **AI Processing**: Groq LLM models
+
+<br/>
 
 ### System Flow
 
@@ -165,6 +181,8 @@ Extract contact information including email addresses and phone numbers
 6. Structured data is returned to the frontend in the chosen format (JSON/Plain Text)
 7. User can then utilize the data for their specific needs
 
+<br/>
+
 ## 👥 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -175,9 +193,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+<br/>
 
 ---
 
