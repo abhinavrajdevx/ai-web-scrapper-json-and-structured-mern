@@ -19,6 +19,7 @@
 <div align="center">
   <a href="#-features">Features</a> •
   <a href="#-demo">Demo</a> •
+  <a href="#-video-walkthrough">Video Walkthrough</a> •
   <a href="#-installation">Installation</a> •
   <a href="#-usage">Usage</a> •
   <a href="#-architecture">Architecture</a> •
@@ -41,6 +42,37 @@
 <div align="center">
   <p><i>The AI Web Scraper in action</i></p>
   <img src="https://i.imgur.com/cRac0Sr.gif" alt="Demo GIF" />
+</div>
+
+## 📹 Video Walkthrough
+
+<div align="center">
+  <p><i>Watch the complete development process of the AI Web Scraper</i></p>
+  
+  [![AI Web Scraper Development Process](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/your-video-id-here)
+  
+  <p>
+    <a href="https://youtu.be/your-video-id-here">
+      <img src="https://i.imgur.com/placeholder-thumbnail.jpg" alt="YouTube Video Thumbnail" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    </a>
+  </p>
+  
+  <p>
+    <b>✨ Watch as we build this powerful tool from scratch ✨</b><br>
+    Learn about the implementation details, challenges faced, and see the scraper in action!
+  </p>
+  
+  <details>
+    <summary><b>What's covered in the video</b></summary>
+    <ul>
+      <li>🔧 Setting up the development environment</li>
+      <li>⚙️ Configuring Puppeteer for web scraping</li>
+      <li>🧠 Integrating AI models for smart content extraction</li>
+      <li>🎨 Building the responsive React UI</li>
+      <li>🔄 Handling data processing and transformation</li>
+      <li>🚀 Performance optimization techniques</li>
+    </ul>
+  </details>
 </div>
 
 ## 🚀 Installation
@@ -142,6 +174,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
