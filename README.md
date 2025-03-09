@@ -6,9 +6,9 @@
   <p align="center">
     <b>A powerful GUI web scraper with AI-powered customization capabilities</b>
   </p>
-  
+  ![Alt text](images/banner.png)
   <p align="center">
-    ![Alt text](images/banner.png)
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
     <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
