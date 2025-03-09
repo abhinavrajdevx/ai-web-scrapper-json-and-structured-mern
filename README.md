@@ -28,10 +28,6 @@
 
 ## ✨ Features
 
-<div align="center">
-  <img src="/api/placeholder/700/400" alt="Features Showcase" />
-</div>
-
 - 🌐 **GUI Web Scraping**: User-friendly interface for scraping any website
 - 🤖 **Custom AI Prompts**: Customize output with tailored AI prompts
 - 🔄 **Multiple Output Formats**: Choose between JSON or Plain Text modes
