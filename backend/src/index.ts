@@ -46,7 +46,7 @@ app.post("/scrape", async (req: any, res: any) => {
 
   const webpage_data = await getHtmlFromUrl(json_data.webpage_url);
 
-  const no_of_chunks = 2;
+  const no_of_chunks = 5;
   const chunk_size = Math.round(webpage_data.length / no_of_chunks);
 
   let scrapped_chunks = "";
