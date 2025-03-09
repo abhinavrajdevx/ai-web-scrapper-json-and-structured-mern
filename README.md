@@ -1,12 +1,12 @@
 # 🤖 AI Web Scraper
 
 <div align="center">
-  <img src="/api/placeholder/800/300" alt="AI Web Scraper Banner" />
+  <img src="blob:https://imgur.com/ff01f7ab-b521-4149-b58e-2f585d2bafec" alt="AI Web Scraper Banner" />
   
   <p align="center">
     <b>A powerful GUI web scraper with AI-powered customization capabilities</b>
   </p>
-  ![Alt text](images/banner.png)
+  
   <p align="center">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
