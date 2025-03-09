@@ -44,7 +44,7 @@
 
 <div align="center">
   <p><i>The AI Web Scraper in action</i></p>
-  <img src="/api/placeholder/700/400" alt="Demo GIF" />
+  <img src="https://i.imgur.com/cRac0Sr.gif" alt="Demo GIF" />
 </div>
 
 ## 🚀 Installation
@@ -92,10 +92,6 @@ Once both servers are running, navigate to `http://localhost:3000` (or the port 
 
 ## 📖 Usage
 
-<div align="center">
-  <img src="/api/placeholder/700/400" alt="Usage Screenshot" />
-</div>
-
 1. **Enter the URL** of the website you want to scrape
 2. **Select the output mode** (JSON or Plain Text)
 3. **Customize your AI prompt** for specific data extraction needs
@@ -121,7 +117,7 @@ Extract contact information including email addresses and phone numbers
 ## 🏗️ Architecture
 
 <div align="center">
-  <img src="/api/placeholder/700/400" alt="Architecture Diagram" />
+  <img src="https://i.imgur.com/ydtw0pL.png" alt="Architecture Diagram" />
 </div>
 
 ### Tech Stack
