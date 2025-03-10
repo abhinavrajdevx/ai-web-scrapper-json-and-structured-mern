@@ -58,13 +58,16 @@ function App() {
     e.preventDefault();
     setLoading(true);
     try {
-      const response = await fetch("http://localhost:3005/scrape", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(formData),
-      });
+      const response = await fetch(
+        "https://server.abhinavraj.tech/ai-web-scrapper/api/scrape",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(formData),
+        }
+      );
       const data: ScrapeResponse = await response.json();
       if (data.message != "OK") {
         setLoading(false);
