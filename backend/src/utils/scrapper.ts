@@ -7,7 +7,7 @@ export const getHtmlFromUrl = async (webpage_url: string) => {
   let html = "";
   const browser = await puppeteer.launch({
     headless: false,
-    args: ["--disable-setuid-sandbox"],
+    args: ["--no-sandbox"],
   });
   const page = await browser.newPage();
   await page.goto(webpage_url, { waitUntil: "networkidle0" });
