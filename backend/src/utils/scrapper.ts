@@ -1,14 +1,14 @@
 import puppeteer from "puppeteer-extra";
-import StealthPlugin from "puppeteer-extra-plugin-stealth";
+// import StealthPlugin from "puppeteer-extra-plugin-stealth";
 
-puppeteer.use(StealthPlugin());
+// puppeteer.use(StealthPlugin());
 
 export const getHtmlFromUrl = async (webpage_url: string) => {
   let html = "";
   const browser = await puppeteer.launch({
     headless: false,
     args: ["--no-sandbox"],
-    executablePath: "/usr/bin/chromium-browser",
+    // executablePath: "/usr/bin/chromium-browser",
   });
   const page = await browser.newPage();
   await page.goto(webpage_url, { waitUntil: "networkidle0" });
