@@ -6,7 +6,8 @@ puppeteer.use(StealthPlugin());
 export const getHtmlFromUrl = async (webpage_url: string) => {
   let html = "";
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
+    args: ["--disable-setuid-sandbox"],
   });
   const page = await browser.newPage();
   await page.goto(webpage_url, { waitUntil: "networkidle0" });
