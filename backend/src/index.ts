@@ -17,11 +17,11 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 // Simple route
-app.get("ai-web-scrapper/api/", (req: any, res: any) => {
+app.get("/ai-web-scrapper/api/", (req: any, res: any) => {
   res.send("Hello World!");
 });
 
-app.post("ai-web-scrapper/api/scrape", async (req: any, res: any) => {
+app.post("/ai-web-scrapper/api/scrape", async (req: any, res: any) => {
   const json_data: {
     user_prompt: string;
     model_id: string;
