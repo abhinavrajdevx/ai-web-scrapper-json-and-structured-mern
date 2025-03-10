@@ -8,7 +8,7 @@ export const getHtmlFromUrl = async (webpage_url: string) => {
   const browser = await puppeteer.launch({
     headless: false,
     args: ["--no-sandbox"],
-    executablePath: "/usr/bin/chromium-browser",
+    // executablePath: "/usr/bin/chromium-browser",
   });
   const page = await browser.newPage();
   await page.goto(webpage_url, { waitUntil: "networkidle0" });
