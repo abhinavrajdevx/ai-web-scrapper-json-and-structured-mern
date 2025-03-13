@@ -3,7 +3,7 @@ import { config } from "dotenv";
 
 config();
 
-const GROQ_API_KEY = process.env.GROQ_API_KEY;
+// const GROQ_API_KEY = process.env.GROQ_API_KEY;
 
 export async function scrapperModelPlainText(
   user_ptompt: string,
@@ -13,7 +13,7 @@ export async function scrapperModelPlainText(
   groq_api_key: string
 ) {
   const groq = new Groq({
-    apiKey: GROQ_API_KEY,
+    apiKey: groq_api_key,
   });
 
   const system_prompt = `
