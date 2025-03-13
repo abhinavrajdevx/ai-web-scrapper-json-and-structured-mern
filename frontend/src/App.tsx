@@ -9,12 +9,7 @@ interface ScrapeResponse {
   json_format: boolean;
 }
 
-const AVAILABLE_MODELS = [
-  "qwen-2.5-coder-32b",
-  "qwen-qwq-32b",
-  "deepseek-r1-distill-qwen-32b",
-  "deepseek-r1-distill-llama-70b",
-] as const;
+const AVAILABLE_MODELS = ["qwen-2.5-coder-32b", "qwen-qwq-32b"] as const;
 
 function App() {
   const [loading, setLoading] = useState(false);
